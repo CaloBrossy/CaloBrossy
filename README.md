@@ -1,4 +1,4 @@
-![Texto animado](./hi-git.svg)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
 <h1 align="center">Hi 👋, I'm Calogero!</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
