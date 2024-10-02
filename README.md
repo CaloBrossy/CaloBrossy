@@ -1,5 +1,4 @@
-<h1 align="center"> ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54BCF7&width=435&lines=Hi+git%2C+im+Calo+Brossy+%F0%9F%98%8E)](https://git.io/typing-svg)
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54BCF7&width=435&lines=Hi+git%2C+im+Calo+Brossy+%F0%9F%98%8E" alt="Typing SVG" /></a>
    <\h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
  
