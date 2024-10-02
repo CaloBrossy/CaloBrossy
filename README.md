@@ -1,5 +1,4 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 <h1 align="center">Hi 👋, I'm Calogero!</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
