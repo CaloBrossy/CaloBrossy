@@ -1,3 +1,4 @@
+![Texto animado](./hi-git.svg)
 <h1 align="center">Hi 👋, I'm Calogero!</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
