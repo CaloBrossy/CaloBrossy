@@ -1,8 +1,7 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Calogero!</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Frameworks, programming technicature**
+- 🧑‍🎓 I’m currently learning **Frameworks, programming technicature**
 
 - 💬 Ask me about **Flask, FastAPI, Python, React, MySQL**
 
@@ -23,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calobrossy&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="calobrossy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calobrossy&show_icons=true&locale=en" alt="calobrossy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calobrossy&" alt="calobrossy" /></p>
