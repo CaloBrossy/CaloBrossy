@@ -1,11 +1,11 @@
 <h1 align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=54BCF7&width=435&lines=Hi+git%2C+im+Calo+Brossy%F0%9F%98%8E"/>
-<h3 align="center">A passionate Backend developer from Argentina</h3>
+<h3 align="center">A passionate Fullstack developer from Argentina</h3>
  
 
 - 🧑‍🎓 I’m currently learning **Frameworks, programming technicature**
 
-- 💬 Ask me about **Flask, FastAPI, Python, React, MySQL**
+- 💬 Ask me about **Flask, FastAPI, Python, React, MySQL, Static desing (css,html,js)**
 
 - 📫 How to reach me **calubrossy@gmail.com**
 
